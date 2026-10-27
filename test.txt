@@ -6,3 +6,8 @@ Created by: Josefylle Selorio
 Purpose: Testing GitHub collaboration.
 
 This file will be updated by all group members.
+
+Update 1: Karla Harayo - Initial test
+Update 2: Jayson Canlas - Updated project details
+Update 3: Ignacio Tigtig - Added collaboration notes
+Update 4: Josefylle Selorio - Tested repository updates
